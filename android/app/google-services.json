@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803088828958",
+    "firebase_url": "https://flutter-frigate-user-app-fcm.firebaseio.com",
+    "project_id": "flutter-frigate-user-app-fcm",
+    "storage_bucket": "flutter-frigate-user-app-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803088828958:android:5c71b816600c358c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_frigate_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803088828958-oivp12o9jrol7pfoqi4leb157vetbqt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqW61jUs7NdXzKzgdLZFBEQFkRpdGkZY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803088828958-oivp12o9jrol7pfoqi4leb157vetbqt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
